@@ -63,9 +63,8 @@
         <Compile Include="AntiFlashbangConfig.cs" />
         <Compile Include="AntiFlashbangPlugin.cs" />
         <Compile Include="Overridable.cs" />
-        <Compile Include="OverrideWrapperExtensions.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="RedirectionHelper.cs" />
+        <Compile Include="Overriding.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
